@@ -16,10 +16,12 @@ Mahi ngatahi, whakamaoritanga i nga Tuhinga ki to reo!
 
 - - - - - - - - - - - - - - - - - - - - - - -
 
-Questions, comments? / Preguntas, comentarios?
+**Questions, comments? / Preguntas, comentarios?**
 
-Email: guemilproject@gmail.com
-
-Twitter: [@GuemilIcons](https://twitter.com/guemilicons)
+**Email**: guemilproject@gmail.com
 
 Website: http://www.guemil.info/
+
+Instagram: [@Guemil_Icons](https://www.instagram.com/Guemil_Icons/)
+
+Twitter: [@Guemil_Icons](https://twitter.com/Guemil_Icons)
