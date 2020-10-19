@@ -1,6 +1,6 @@
 # Infokit_v01_2020
 
-### Guemil Infokit Dorso de la mano con el dedo índice señalando hacia la derecha A set of editable & printable pieces for information in pandemia
+### Guemil Infokit | A set of editable & printable pieces for information in pandemia
 
 Collaborate, translating Infokits into your language!
 
