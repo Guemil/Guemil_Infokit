@@ -15,7 +15,3 @@ Werk saam, vertaal inligtingstukke in u taal!
 Mahi ngatahi, whakamaoritanga i nga Tuhinga ki to reo!
 
 - - - - - - - - - - - - - - - - - - - - - - -
-
-Gracias Beatriz Painekeo por la traducción Español-Mapudungún
-
-Thanks to Mandar Rane for the Hindi-English translation  
