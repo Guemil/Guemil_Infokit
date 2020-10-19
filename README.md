@@ -1,4 +1,4 @@
-# Infokit_v01_2020
+# Guemil_Infokit
 
 ### Guemil Infokit | A set of editable & printable pieces for information in pandemia
 
