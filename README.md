@@ -14,14 +14,11 @@ Werk saam, vertaal inligtingstukke in u taal!
 
 Mahi ngatahi, whakamaoritanga i nga Tuhinga ki to reo!
 
+- - - - - - - -
 
-- - - - - - - - - 
+#### Guemil Icons for Emergency by [Rodrigo Ramírez](https://www.guemil.info/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-### Creative Commons License | Licencia Creative Commons
-
-Guemil Icons for Emergency is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-**This means that you are free to:**
+**You are free to:**
 
 - **Share** — copy and redistribute the material in any medium or format
 
@@ -35,7 +32,7 @@ The licensor cannot revoke these freedoms as long as you follow **the license te
 
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-Guemil Íconos para la Emergencia utiliza licencia de <a rel="Licencia" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a>.
+#### Guemil, desarrollado por [Rodrigo Ramírez](https://www.guemil.info/), se distribuye bajo una [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
 **Usted es libre de:**
 
@@ -53,12 +50,12 @@ El licenciante no puede revocar estas libertades en tanto usted siga **los térm
 
 - - - - - - - - - 
 
-**Questions, comments? | Preguntas, comentarios?**
+#### Questions, comments? | Preguntas, comentarios?
 
 **Email**: guemilproject@gmail.com
 
-Website: http://www.guemil.info/
-
-Instagram: [@Guemil_Icons](https://www.instagram.com/Guemil_Icons/)
+Website: [http://www.guemil.info/](http://www.guemil.info/)
 
 Twitter: [@Guemil_Icons](https://twitter.com/Guemil_Icons)
+
+Instagram: [@Guemil_Icons](https://www.instagram.com/Guemil_Icons/)
