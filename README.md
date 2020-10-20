@@ -16,7 +16,7 @@ Mahi ngatahi, whakamaoritanga i nga Tuhinga ki to reo!
 
 - - - - - - - -
 
-#### Guemil Icons for Emergency by [Rodrigo Ramírez](https://www.guemil.info/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+#### Guemil Icons for Emergency by [Rodrigo Ramírez](https://www.guemil.info/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 **You are free to:**
 
