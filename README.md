@@ -2,17 +2,12 @@
 
 ### A set of editable and printable pieces for information in pandemia | Un conjunto de piezas editables e imprimibles para entregar instrucciones en contexto de pandemia
 
-Collaborate, translating Infokits into your language!
-
-Colabora, traduciéndolos en tu idioma!
-
-协作，将Infokit转换为您的语言！
-
-Werk saam, vertaal inligtingstukke in u taal!
-
-Համագործակցեք ՝ Infokits- ը թարգմանելով ձեր լեզվով:
-
-Mahi ngatahi, whakamaoritanga i nga Tuhinga ki to reo!
+- English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_English.pdf)
+- English-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_English-Espanol.pdf)
+- Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Espanol.pdf)
+- Hindi-English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Hindi-English.pdf)
+- Mapudngun-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Mapudungun-Espanol.pdf)
+- Portuguese-English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Portuguese-English.pdf)
 
 - - - - - - - -
 
