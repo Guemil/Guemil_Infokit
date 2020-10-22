@@ -5,7 +5,9 @@
 - English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_English.pdf)
 - English-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_English-Espanol.pdf)
 - Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Espanol.pdf)
+- German-English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v012_German-English.pdf)
 - Hindi-English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Hindi-English.pdf)
+- Krèyol-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Kreyol-Espanol.pdf)
 - Mapudngun-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Mapudungun-Espanol.pdf)
 - Portuguese-English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Portuguese-English.pdf)
 
