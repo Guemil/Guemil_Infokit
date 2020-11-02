@@ -10,7 +10,7 @@
 - Hindi-English [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v012_Hindi-English.pdf)
 - Kreyòl-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Kreyol-Espanol.pdf)
 - Mapudungun-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v011_Mapudungun-Espanol.pdf)
-- Nahuatl-Español [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v01_Nahuatl-Espan%CC%83ol.pdf)
+- Náhuatl-Español [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v01_Nahuatl-Espan%CC%83ol.pdf)
 - Quechua-Español [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v01_Nahuatl-Espan%CC%83ol.pdf)
 - Portuguese-English [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v011_Quechua-Espan%CC%83ol.pdf)
 
