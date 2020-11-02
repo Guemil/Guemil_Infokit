@@ -2,14 +2,16 @@
 
 ### A set of editable and printable pieces for information in pandemia | Un conjunto de piezas editables e imprimibles para entregar instrucciones en contexto de pandemia
 
-- English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_English.pdf)
-- English-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_English-Espanol.pdf)
+- English [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v01_English.pdf)
+- English-Español [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v011_English-Spanish.pdf)
 - Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Espanol.pdf)
 - German-English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v012_German-English.pdf)
 - Hindi-English [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v012_Hindi-English.pdf)
 - Krèyol-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Kreyol-Espanol.pdf)
 - Mapudngun-Español [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v011_Mapudungun-Espanol.pdf)
+- Nahuatl-Español [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v01_Nahuatl-Espan%CC%83ol.pdf)
 - Portuguese-English [PDF](https://github.com/Guemil/Guemil_Infokit/raw/main/Guemil_Infokit_v01_Portuguese-English.pdf)
+
 
 - - - - - - - -
 
