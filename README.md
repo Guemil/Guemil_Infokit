@@ -1,6 +1,6 @@
 # Guemil Infokit
 
-### A set of editable and printable pieces for information in pandemia | Un conjunto de piezas editables e imprimibles para entregar instrucciones en contexto de pandemia
+### A set of editable and printable pieces for information in crisis | Un conjunto de piezas editables e imprimibles para informar en crisis
 
 - English [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v01_English.pdf)
 - English-Español [PDF](https://github.com/Guemil/Guemil_Infokit/blob/main/Guemil_Infokit_v011_English-Spanish.pdf)
